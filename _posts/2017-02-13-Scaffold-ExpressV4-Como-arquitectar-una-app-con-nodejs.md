@@ -1,6 +1,6 @@
 ---
 layout: post
-	title: "Scaffold Express V4. Como arquitectar una app con NodeJS y Express"
+title: "Scaffold Express V4. Como arquitectar una app con NodeJS y Express"
 date:   2017-02-13 23:51:00 -0400
 categories: blog javascript architecture
 ---
